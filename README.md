@@ -6,7 +6,8 @@ Platform: Arduino UNO
 
 [Use VSCODE with Platform.io to compile the code](https://platformio.org/?ref=iotchallenges)
 
-* Instagram text
+### Instagram text
+
 [7 Uno Water Sensor]
 The challenge is detect the water and define 3 levels using Leds
 
